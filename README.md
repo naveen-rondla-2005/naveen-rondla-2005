@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Frontend+%2B+Machine+Learning+Engineer;Computer+Vision+%7C+NLP+Specialist;Building+the+Future+with+AI" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://naveen-rondla-2005.github.io/Portfolio/)
-[![Resume](https://img.shields.io/badge/📄_Resume-FF6B6B?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/16VlVl6tP8Uf4nB1ZxDERS1OUQWLYsZCw/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/📄_Resume-FF6B6B?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/18gSNQOPzDFGRrDKICekdL3OAe06y_svR/view?usp=sharing)
 [![Email](https://img.shields.io/badge/📧_Email-4ECDC4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:naveenrondla@hotmail.com)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
